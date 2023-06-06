@@ -2,7 +2,7 @@
 A Functional Perspective and Baseline on Multi-Layer Out-of-Distribution Detection
 </h1>
 
-Adapted from the OOD detection library [detectors]([detectors](https://www.github.com/edadaltocg/detectors)).
+Adapted from the OOD detection library [detectors](https://www.github.com/edadaltocg/detectors).
 
 <img src="images/main_diagram.png" align="center">
 
