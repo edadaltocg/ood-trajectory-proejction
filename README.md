@@ -1,8 +1,10 @@
 <h1 align="center">
-A Functional Perspective and Baseline on Multi-Layer Out-of-Distribution Detection
+A Functional Data Perspective and Baseline on Multi-Layer Out-of-Distribution Detection
 </h1>
 
 Adapted from the OOD detection library [detectors](https://www.github.com/edadaltocg/detectors).
+
+[Arxiv link](https://arxiv.org/abs/2306.03522).
 
 <img src="images/main_diagram.png" align="center">
 
