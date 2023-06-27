@@ -113,4 +113,12 @@ export RESULTS_DIR="results/"
 ## Citation
 
 ```
-``
+@misc{dadalto2023functional,
+      title={A Functional Data Perspective and Baseline On Multi-Layer Out-of-Distribution Detection}, 
+      author={Eduardo Dadalto and Pierre Colombo and Guillaume Staerman and Nathan Noiry and Pablo Piantanida},
+      year={2023},
+      eprint={2306.03522},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
